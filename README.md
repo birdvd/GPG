@@ -1,4 +1,4 @@
-# PGP
+# GPG
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
