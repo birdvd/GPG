@@ -1,4 +1,4 @@
-# GPG
+# My GPG public key
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
